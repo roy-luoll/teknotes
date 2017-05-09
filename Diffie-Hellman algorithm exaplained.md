@@ -20,6 +20,7 @@ What is D-H?
    比如 φ(8)=4， 因为 1， 3，5，7都与8互质，共有4个正整数。
    
    ![有个通式](https://github.com/roy-luoll/teknotes/blob/master/resources/eula-function.jpg)
+   
    这里又引出质因数的概念，稍微说明一下。
    质因数指的是整数的因数中为质数的那些数。如12 = 2 x 2 x 3, 质因数为2， 3。根据上面的通式，代入计算：
    φ(12) = 12*（1-1/2）*(1-1/3)=4
