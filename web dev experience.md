@@ -12,3 +12,6 @@ https://segmentfault.com/a/1190000006968235
   $ npm install
   $ npm run dev
   
+3. Building a Bookmarking App with Electron, VueJs, and Firebase
+   refer to: https://coligo.io/bookmarking-app-electron-vuejs-firebase/
+   
